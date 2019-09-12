@@ -24,3 +24,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+Hold so fast to dreams  
+For if dreams die  
+Life is a broken-winged bird  
+That cannot fly.  
+ 
+Hold fast to dreams  
+For when dreams go  
+Life is a barren field  
+Frozen with snow.  
